@@ -1,4 +1,4 @@
-syntax on
+syntax on "Test
 
 set belloff=all " Turn off all bell sounds
 set number
